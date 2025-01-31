@@ -2,8 +2,9 @@
 
 A structured collection of **backend development tutorials** focused on building **scalable, secure, and efficient applications** using **.NET Core**.  
 
-## 📖 Available Tutorials  
-📌 **Coming soon...**
+## 📖 C# Tutorials  
+
+📌 **[Basic Transaction Management](./basic-transaction-management.md)** – Learn how to build and persist a simple CRUD system for financial transactions in C#.
 
 More tutorials coming soon! Stay updated. 🚀  
 
