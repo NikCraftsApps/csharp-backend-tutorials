@@ -8,7 +8,7 @@ A structured collection of **backend development tutorials** focused on building
 More tutorials coming soon! Stay updated. 🚀  
 
 ## 🛠 3. Requirements  
-- **.NET Core 6+**  
+- **.NET 6+**  
 - **ASP.NET Core** (for API development)  
 - **Entity Framework Core** (for database interactions)  
 - **SignalR** (for real-time communication)  
