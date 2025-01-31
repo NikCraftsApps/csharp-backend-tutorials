@@ -12,7 +12,7 @@ We'll build a **TransactionService** that handles:
 3. **Edit** an existing transaction  
 4. **Delete** a transaction  
 
-Additionally, we'll show how to **persist** data to a **JSON file** so that changes are saved across application restarts.
+Additionally, I'll show how to **persist** data to a **JSON file** so that changes are saved across application restarts.
 
 ---
 
