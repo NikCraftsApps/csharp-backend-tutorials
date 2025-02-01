@@ -6,6 +6,8 @@ A structured collection of **backend development tutorials** focused on building
 
 📌 **[Basic Transaction Management](./basic-transaction-management.md)** – Learn how to build and persist a simple CRUD system for financial transactions in C#.
 
+📌 **[LAN Sync System](./building-lan-sync-system.md)** – Learn how to set up a basic real-time data exchange in a local network using C# and TCP
+
 More tutorials coming soon! Stay updated. 🚀  
 
 ## 🛠 3. Requirements  
